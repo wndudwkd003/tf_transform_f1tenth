@@ -7,7 +7,7 @@ autodrive roboracer(f1tenth) 시뮬레이터에서 slam을 하기 위해 tf tran
 ## rf2o version
 
 rf2o 패키지가 필요합니다.
-| https://github.com/MAPIRlab/rf2o_laser_odometry
+https://github.com/MAPIRlab/rf2o_laser_odometry
 
 </br>
 
