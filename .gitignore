@@ -1,0 +1,8 @@
+build/
+install/
+log/
+.vscodee/
+.pyc
+
+src/autodrive_devkit/
+src/rf2o_laser_odometry/
